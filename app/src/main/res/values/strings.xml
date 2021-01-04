@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Dico Lega</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Dictionnaire Lega</string>
+    <string name="nav_header_subtitle">dicolega.getsoft-cd.com</string>
+    <string name="nav_header_desc">Navigation en haut</string>
+    <string name="action_settings">Parametres</string>
+
+    <string name="menu_home">DicoLega</string>
+    <string name="menu_gallery">Gallerie</string>
+    <string name="menu_slideshow">Videos</string>
+    <string name="menu_tools">Outils</string>
+    <string name="menu_share">Partager</string>
+    <string name="menu_send">Envoyer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="linktosite">
+        <a style="color:blue;" href="http://www.getsoft-cd.com">www.getsoft-cd.com</a>
+    </string>
+    <string name="sharTitle">Le titre a partager</string>
+    <string name="sharSub">Le sujet a partager</string>
+    <string name="sharBody">Les details a partager</string>
+
+</resources>

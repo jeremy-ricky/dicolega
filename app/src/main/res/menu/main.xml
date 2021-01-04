@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title=""
+        android:icon="@drawable/fran_kileg"
+        app:showAsAction="always" >
+        <menu>
+            <item
+                android:id="@+id/action_fr_kil"
+                android:icon="@drawable/fran_kileg"
+                android:title="Kilega - Anglais"
+                android:orderInCategory="100"
+                app:showAsAction="never"/>
+            <item
+                android:id="@+id/action_kil_fr"
+                android:icon="@drawable/kileg_kileg"
+                android:title="Kilega - Français"
+                android:orderInCategory="100"
+                app:showAsAction="never"/>
+            <item
+                android:id="@+id/action_ang_kil"
+                android:icon="@drawable/angl_kileg"
+                android:title="Français - Kilega"
+                android:orderInCategory="100"
+                app:showAsAction="never"/>
+        </menu>
+    </item>
+</menu>
